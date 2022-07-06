@@ -110,7 +110,10 @@ h1{
 #email{
     width: 300px;
     height: 40px;
-    font-weight: 700;
+    font-size: small;
+    font-weight: 300;
+    border: none;
+    color: #D9D9D9;
 }
 #button-2{
     text-decoration: none;

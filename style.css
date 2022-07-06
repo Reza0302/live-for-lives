@@ -9,12 +9,12 @@ h1{
     background-image: url(images/donation13.jpg);
     background-size: cover;
     padding-top: 150px;
-    padding-bottom: 175px;
+    padding-bottom: 71px;
 }
 .help-people{
     text-align: center;
     color: aliceblue;
-    padding: 45px 20px 30px 40px;
+    padding: 20px 20px 30px 40px;
 }
 #button{
     text-align: center;
@@ -33,7 +33,7 @@ h1{
 }
 .donation-amount{
     display: flex;
-    padding: 0px 10px 20px 15px;
+    padding: 10px 130px 20px 120px;
 }
 .box-width{
     width: 20%;

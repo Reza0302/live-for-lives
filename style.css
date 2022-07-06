@@ -54,6 +54,11 @@ h1{
 }
 .amount{
     text-align: center;
+    padding-left: 45px;
+}
+#amount1{
+    text-decoration: none;
+    border: none;
 }
 .line{
     width: 1000px;
@@ -124,4 +129,11 @@ h1{
     padding-top: 13px;
     padding-bottom: 14px;
     margin-left: -5px;
+}
+.foot{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 120px;
+    padding-top: 10px;
 }

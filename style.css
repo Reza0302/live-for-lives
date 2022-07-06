@@ -56,3 +56,36 @@ h1{
     text-align: center;
     padding-left: 170px
 }
+.services{
+    padding-top: 75px;
+    padding-bottom: 40px;
+}
+.donate-plan{
+    text-align: center;
+}
+.support-way{
+    display: flex;
+    padding: 10px 130px 20px 200px;
+}
+.support-width{
+    width: 100%;
+    margin: 1%;
+}
+#food-family{
+    background-color: #EDF5F6;
+    padding-top: 70px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+#shelter-family{
+    background-color: #FFEEEE;
+    padding-top: 70px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+#education-child{
+    background-color: #FFF4D6;
+    padding-top: 70px;
+    padding-left: 20px;
+    border-radius: 10px;
+}

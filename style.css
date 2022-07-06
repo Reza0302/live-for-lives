@@ -28,3 +28,31 @@ h1{
     color: aliceblue;
     font-weight: 700;
 }
+#donate-today{
+    color: black;
+}
+.donation-amount{
+    display: flex;
+    padding: 0px 10px 20px 15px;
+}
+.box-width{
+    width: 20%;
+    height: 10%;
+    text-align: center;
+    background-color: #FAFAFA;
+    margin: 1%;
+    border-radius: 15px;
+}
+#special-effect{
+    color: orangered;
+    background-color: #FFEEEE;
+    border: 2px solid orangered;
+}
+.amount{
+    text-align: center;
+}
+.line{
+    width: 1000px;
+    text-align: center;
+    padding-left: 170px
+}

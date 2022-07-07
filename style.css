@@ -98,6 +98,20 @@ h1{
     padding-left: 20px;
     border-radius: 10px;
 }
+.donation{
+    text-align: center;
+}
+.images{
+    display: flex;
+    width: 100px;
+    height: 200px;
+    margin-left: 220px;
+    padding-top: 45px;
+    padding-bottom: 40px;
+}
+.flood{
+    margin: 5px;
+}
 .update{
     text-align: center;
     padding-bottom: 70px;
@@ -137,18 +151,4 @@ h1{
     background-color: black;
     height: 120px;
     padding-top: 10px;
-}
-.donation{
-    text-align: center;
-}
-.images{
-    display: flex;
-    width: 100px;
-    height: 200px;
-    margin-left: 220px;
-    padding-top: 45px;
-    padding-bottom: 40px;
-}
-.flood{
-    margin: 5px;
 }

@@ -67,7 +67,7 @@ h1{
 }
 .services{
     padding-top: 75px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 .donate-plan{
     text-align: center;
@@ -101,6 +101,7 @@ h1{
 .update{
     text-align: center;
     padding-bottom: 70px;
+    padding-top: 75px;
 }
 .email-button{
     text-align: center;
@@ -136,4 +137,18 @@ h1{
     background-color: black;
     height: 120px;
     padding-top: 10px;
+}
+.donation{
+    text-align: center;
+}
+.images{
+    display: flex;
+    width: 100px;
+    height: 200px;
+    margin-left: 220px;
+    padding-top: 45px;
+    padding-bottom: 40px;
+}
+.flood{
+    margin: 5px;
 }
